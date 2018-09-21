@@ -9,7 +9,7 @@
                             <a href="#intro">Home</a>
                         </li>
                         <li>
-                            <a href="#">About Us</a>
+                            <a href="#about">About Us</a>
                         </li>
                         <li>
                             <a href="#">Classes</a>
@@ -46,7 +46,7 @@
                         <a href="#intro">Home</a>
                     </li>
                     <li class="hc-mobile-menu-item">
-                        <a href="#">About Us</a>
+                        <a href="#about">About Us</a>
                     </li>
                     <li class="hc-mobile-menu-item">
                         <a href="#">Classes</a>
@@ -112,7 +112,7 @@
     .bar3 {
         width: 35px;
         height: 3px;
-        background-color: #333;
+        background-color: $white;
         margin: 3px 0;
         transition: 0.4s;
         pointer-events: none;

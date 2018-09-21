@@ -1,4 +1,5 @@
 /*! UIkit 3.0.0-rc.16 | http://www.getuikit.com | (c) 2014 - 2018 YOOtheme | MIT License */
+/* eslint-disable */
 
 (function (global, factory) {
     typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory() :
